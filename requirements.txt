@@ -1,0 +1,7 @@
+pip install geopandas
+pip install folium
+pip install seaborn
+pip install numpy
+pip install pandas
+pip install -U matplotlib
+pip install -U scikit-learn
